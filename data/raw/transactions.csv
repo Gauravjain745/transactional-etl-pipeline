@@ -1,0 +1,5 @@
+transaction_id,customer_id,product,amount,timestamp
+1,101,Laptop,999.99,2025-07-29 10:00:00
+2,102,Phone,499.99,2025-07-29 11:00:00
+3,101,Mouse,29.99,2025-07-29 12:00:00
+4,103,Keyboard,59.99,2025-07-29 13:00:00

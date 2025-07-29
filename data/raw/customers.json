@@ -1,0 +1,5 @@
+[
+    {"customer_id": 101, "name": "John Doe", "email": "john@example.com", "signup_date": "2025-01-01"},
+    {"customer_id": 102, "name": "Jane Smith", "email": "jane@example.com", "signup_date": "2025-02-01"},
+    {"customer_id": 103, "name": "Bob Johnson", "email": "", "signup_date": "2025-03-01"}
+]
